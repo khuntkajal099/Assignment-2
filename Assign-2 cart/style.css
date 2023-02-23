@@ -1,0 +1,46 @@
+*{margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+ .conteiner{
+    width: 1200px;
+    margin: 0 auto;
+ }
+ .raw{
+    display: flex;
+ }
+ .jcs{
+    justify-content: space-between;
+ }
+ .col-45{
+    width: 45%;
+ }
+ .cart img{
+    width: 50%;
+  display: block;
+  margin: 0 auto;
+ }
+ .cart h1{
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    padding: 50px 0 30px 0;
+ }
+ .cart{
+    background-color: gold
+ }
+ .cart p {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    padding: 20px 0 20px 0;
+ }
+ .cart button{
+    display: block;
+    margin: 0 auto;
+    color: azure;
+    font-size: 20px;
+    letter-spacing: 1px;
+    background-color: black;
+    padding:15px 30px 15px 30px;
+ }
